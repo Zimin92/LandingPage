@@ -1,0 +1,30 @@
+.top{
+    color:aqua;
+}
+
+.hero{
+    background-image: url("assets/heroImage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 40px;
+    height: 640px;
+}
+
+.card{
+    width: 1000px;
+    margin-top: 80px;
+    margin-left: 150px;
+    padding: 10px;
+
+}
+
+.username{
+    width: 50%;
+
+}
+
+#input1{
+    width: 200px;
+    margin-left: 50px;
+}
+
