@@ -1,21 +1,20 @@
 .top{
-    color:aqua;
+    color:rgb(0, 69, 69);
 }
 
 .hero{
-    background-image: url("assets/heroImage.jpg");
+    background-image: url("assets/Paris_hero.webp");
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 40px;
     height: 640px;
 }
 
-.card{
-    width: 1000px;
+.cards{
+    /*width: 1000px;*/
     margin-top: 80px;
-    margin-left: 150px;
+    /*margin-left: 150px;*/
     padding: 10px;
-
 }
 
 .username{
@@ -23,8 +22,9 @@
 
 }
 
-#input1{
-    width: 200px;
-    margin-left: 50px;
+
+.welcome, .sub, .cta {
+    margin-top: 40px;
 }
+
 
